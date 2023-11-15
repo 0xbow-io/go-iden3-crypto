@@ -6,8 +6,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/n8wb/go-iden3-crypto/constants"
-	"github.com/n8wb/go-iden3-crypto/utils"
+	"github.com/0xbow-io/go-iden3-crypto/constants"
+	"github.com/0xbow-io/go-iden3-crypto/utils"
 	"github.com/stretchr/testify/assert"
 )
 

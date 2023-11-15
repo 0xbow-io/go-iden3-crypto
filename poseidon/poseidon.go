@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/n8wb/go-iden3-crypto/ff"
-	"github.com/n8wb/go-iden3-crypto/utils"
+	"github.com/0xbow-io/go-iden3-crypto/ff"
+	"github.com/0xbow-io/go-iden3-crypto/utils"
 )
 
 // NROUNDSF constant from Poseidon paper

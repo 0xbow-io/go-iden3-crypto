@@ -3,7 +3,7 @@ package poseidon
 import (
 	"math/big"
 
-	"github.com/n8wb/go-iden3-crypto/ffg"
+	"github.com/0xbow-io/go-iden3-crypto/ffg"
 )
 
 func zero() *ffg.Element {

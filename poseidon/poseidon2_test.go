@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/n8wb/go-iden3-crypto/ff"
+	"github.com/0xbow-io/go-iden3-crypto/ff"
 	"github.com/stretchr/testify/require"
 )
 

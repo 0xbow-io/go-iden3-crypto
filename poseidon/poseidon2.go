@@ -4,8 +4,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/n8wb/go-iden3-crypto/ff"
-	"github.com/n8wb/go-iden3-crypto/utils"
+	"github.com/0xbow-io/go-iden3-crypto/ff"
+	"github.com/0xbow-io/go-iden3-crypto/utils"
 )
 
 func stateReduce(state []*ff.Element, t, i int) *ff.Element {
